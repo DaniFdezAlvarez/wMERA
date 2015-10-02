@@ -1,0 +1,81 @@
+@prefix ns1: <http://purl.org/dc/elements/1.1/> .
+@prefix ns2: <http://example.org/nuestras_propiedades/> .
+@prefix ns3: <http://xmlns.com/foaf/0.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/nuestras_entidades/alexi_delano> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/alexi_delano/canonical> .
+
+<http://example.org/nuestras_entidades/atom_heart> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/atom_heart/canonical> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/cari_lekebusch/canonical> .
+
+<http://example.org/nuestras_entidades/jesper_dahlback> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/jesper_dahlback/canonical> .
+
+<http://example.org/nuestras_entidades/josh_wink> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/josh_wink/canonical> .
+
+<http://example.org/nuestras_entidades/moonchildren> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/moonchildren/canonical> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/canonical> .
+
+<http://example.org/nuestras_entidades/persuader,_the> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/persuader,_the/canonical> .
+
+<http://example.org/nuestras_entidades/sweet_abraham> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/sweet_abraham/canonical> .
+
+<http://example.org/nuestras_entidades/tetsu_inoue> a <http://purl.org/ontology/mo/MusicArtist> ;
+    ns3:name <http://example.org/nuestras_entidades/tetsu_inoue/canonical> .
+
+<http://example.org/nuestras_entidades/alexi_delano/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi delano" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/atom_heart/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "atom heart" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari lekebusch" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/jesper_dahlback/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jesper dahlback" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh wink" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/moonchildren/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "moonchildren" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr james barth & a d" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "persuader, the" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/sweet_abraham/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "sweet abraham" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/tetsu_inoue/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "tetsu inoue" ;
+    ns2:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/selected_discogs_indexes> a <http://example.org/nuestros_tipos/source> ;
+    ns1:title "selected_discogs_indexes" .
+

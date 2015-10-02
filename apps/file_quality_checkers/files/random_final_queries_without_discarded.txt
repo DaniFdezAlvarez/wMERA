@@ -1,0 +1,106 @@
+file	number of line	number of artists	original query	song	artist1	artist2	...	Found/not found	Comment	RELEASE_ID
+w	48	1	the video whats left of me by nick lachey	whats left of me	nick lachey	V	-	[r1408386]1
+w	63	1	the shake neil	the shake	neil	V	-	[r4677857]12
+w	130	1	money by o jays	money	o jays	V	s@for the love of money	[r6858722]A
+w	133	1	lyrics i wish by omarion	i wish	omarion	V	-	[r1357788]1
+w	206	1	jack ingram lyris where ever you are	where ever you are	jack ingram	V	-	[r5208742]1
+w	263	1	queen songs fat bottom girls	fat bottom girls	queen	V	-	[r1280281]2
+w	311	1	fine young canibals band drives me crazy	drives me crazy	fine young canibals	V	s@she dirves me crazy	[r319519]1-1
+w	340	1	im in love with a stripper video by t-pain	im in love with a stripper	t-pain	V	-	[r6259958]2
+w	344	1	nine inch nails lyrics everyday is exactly the same	every day is exactly the same	nine inch nails	V	-	[r656547]001
+w	458	2	get low by lil john and the eastsideboys featuring the ying yang twins	get low	lil john and the eastsideboys	the ying yang twins	V	Puede haber relacion de productor	[r2081450]1
+w	490	1	u2 - pride in the name of love	pride in the name of love	u2	V	-	[r396573]A
+w	502	2	down rakim y ken y video	down	rakim	ken y	V	-	[r3764184]1
+w	554	1	free ridin' dirty master p download	ridin' dirty	master p	V	d@living legend certified d-boy	[r3696937]11
+w	729	1	hit em up lil wayne lyrics	hit em up	lil wayne	V	-	[r570373]12
+w	766	1	lyrics - aerosmith - don't want to miss a thing	don't want to miss a thing	aerosmith	V	-	[r1898882]1
+w	773	1	gouda e40	gouda	e40	V	-	[r861216]A5
+w	807	1	warm bed video; jamie foxx	warm bed	jamie foxx	V	-	[r588811]1
+w	813	1	lyrics wateva by remy martin	wateva	remy martin	V	s@whuteva	[r1141490]A1
+w	906	1	uncut version of beep by the pussycat dolls	beep	the pussycat dolls	V	-	[r649066]A1
+w	928	1	neyo - when your mad	when your mad	neyo	V	s@when you're mad	[r3934255]1
+w	947	1	when i get you alone by robin thicke	when i get you alone	robin thicke	V	-	[r812252]1
+w	951	1	lick shots by missy elliot the song	lick shots	missy elliot	V	-	[r199842]A1
+w	1034	1	lyrics to what hurts the most by rascak flatts	what hurts the most	rascak flatts	V	-	[r2345841]1
+w	1049	1	butterfly album mariah carey lyrics	butterfly	mariah carey	V	-	[r455168]2
+w	1059	1	walk- pantera	walk	pantera	V	-	[r3139704]1
+w	1200	1	im rightlyrics touch it remix by busta rhymes	touch it remix	busta rhymes	V	Many remixes	[r1571326]2
+w	1212	1	cadillac don peanut butter jelly lyrics	peanut butter jelly	cadillac don	V	-	[r2116288]1
+w	1218	1	lyrics sean paul - temperature	temperature	sean paul	V	-	[r3827750]A
+w	1259	1	doing too much by paula deanda	doing too much	paula deanda	V	-	[r856160]1
+w	1282	1	areosmiths i dont wanna miss a thing song in only instrumental	i dont wanna miss a thing in only instrumental	areosmiths	V	No hay una version puramente instrumental	[r1898882]1
+w	1350	1	chamillionare lyrics to riding dirty	riding dirty	chamillionare	V	s@ridin' (explicit)	[r655796]A2
+w	1356	1	i miss you aaliyah	i miss you	aaliyah	V	s@miss you	[r480474]1-15
+w	1360	1	michelle williams sun will shine again lyrics	sun will shine again	michelle williams	V	-	[r2951114]1
+w	1374	1	between me and you ja rule lyrics	between me and you	ja rule	V	-	[r3187404]1
+w	1395	1	lyrics to it mustve been love by roxette	it mustve been love	roxette	V	s@it must have been love	[r1532797]1
+w	1436	1	best friends by 50cent	best friends	50cent	V	-	[r6781318]2-6
+w	1527	2	so what-field mobb ciara	so what	field mobb	ciara	V	-	[r3207813]A3
+w	1531	1	listen to hold me now by kirk franklin	hold me now	kirk franklin	V	-	[r230436]9
+w	1543	1	lyrics to the song my best friend by tim magraw	my best friend	tim magraw	V	-	[r1896419]5
+w	1612	1	will smith lyrics and fresh prince of bel air theme lyrics	fresh prince of bel air theme	will smith	V	-	[r1285614]B2
+w	1630	1	whuteva lyrics remy ma	whuteva	remy ma	V	-	[r1141490]A1
+w	1674	1	lyrics sos by rihanna	sos	rihanna	V	-	[r633599]A1
+w	1775	1	lyrics to you re my best friend by queen	you re my best friend	queen	V	-	[r1295705]A
+w	1849	2	down remix by rakim y keny	down remix	rakim	keny	V	-	[r3764184]1
+w	1857	1	so what lyrics by jazze pha	so what	jazze pha	V	jazze pha is producer	[r3207813]A3
+w	1884	1	red hot chili peppers venice queen lyrics	venice queen	red hot chili peppers	V	-	[r368516]16
+w	1893	1	janet jackson i miss you much	i miss you much	janet jackson	V	s@miss you much	[r1007075]A
+w	1921	1	listen to miley cyrus the song this is the life	this is the life	miley cyrus	V	a@Hannah Montana	[r1068959]08.
+w	1935	1	watch black buddafly bad girl video	bad girl	black buddafly	V	-	[r5609399]A2
+w	2037	1	rob base joy and pain	joy and pain	rob base	V	-	[r4286466]A
+w	2050	1	lyrics to sweet lady by tyrese	sweet lady	tyrese	V	-	[r1416112]4
+w	2054	1	that so raven theme song lyrics	that so raven	raven	V	-	[r3543770]14
+w	2065	1	lyrics to my way by frank sinatra	my way	frank sinatra	V	-	[r6603022]B1
+w	2087	1	lyrics to rihanna sos rescue me	sos rescue me	rihanna	V	Distinto de sos a secas, creo	[r2730783]A2
+w	2092	1	black flag lyrics nervous breakdown	nervous breakdown	black flag	V	-	[r371255]A
+w	2095	1	i miss someone by johnny cash songfacts	i miss someone	johnny cash	V	s@i still miss someone	[r1355401]B1
+w	2156	2	gimme that lyrics by chris brown ft lil wayne	gimme that	chris brown	lil wayne	V	Distinto de gimme that a secas	[r1316745]1
+w	2164	1	ghost rider rjd2	ghost rider	rjd2	V	s@ghostwriter	[r1672434]6
+w	2184	1	friggs lyrics bad word for a good thing	bad word for a good thing	friggs	V	-	[r4020235]A1
+w	2189	1	listen to do what it do -jamie foxx	do what it do	jamie foxx	V	-	[r588811]11
+w	2206	2	lyrics for busta rhymes and papoose address me as mister	address me as mister	busta rhymes	papoose	V	-	[r1650769]A1
+w	2224	1	this love lyrics pantera	this love	pantera	V	-	[r2865846]6
+w	2229	1	suffix lil wayne mixtape	suffix	lil wayne	V	-	[r4667199]15
+w	2261	2	biggie and jay z i love teh doug lyrics	i love teh doug	biggie	jay z	V	-	[r2277432]11
+w	2311	1	aero smith lyrics don't want to miss a thing	don't want to miss a thing	aero smith	V	-	[r1898882]1
+w	2413	1	lyrics for so what by ciara	so what	ciara	V	-	[r3207813]A3
+w	2508	2	nu-jersey devil and the game- face of la track	face of la	nu-jersey devil	the game	V	-	[r2078535]2
+w	2536	1	so what- feild mob lyrics	so what	field mob	V	-	[r3207813]A3
+w	2552	1	no more by 3lw lyrics	no more	3lw	V	-	[r3717871]11
+w	2557	1	i'm a believer christina milian	i'm a believer	christina milian	V	d@Be Cool - Original Motion Picture Soundtrack|s@Believer	[r4900198]9
+w	2569	1	listen lil jons snap your fingers	snap your fingers	lil jons	V	s@snap yo fingers	[r1389350]A1
+w	2591	1	lyrics for we be burnin by sean paul	we be burnin	sean paul	V	-	[r525486]1
+w	2596	1	love keisha cole	love	keisha cole	V	-	[r5044579]2
+w	2600	1	natasha bedingfield size matters lyrics	size matters	natasha bedingfield	V	-	[r660900]12
+w	2603	1	eric church how bout you	how bout you	eric church	V	-	[r4399810]3
+w	2665	1	pussycats buttons lyrics	buttons	pussycats	V	-	[r778663]1
+w	2701	1	i want it all queen free clip	i want it all	queen	V	-	[r3646106]1
+w	2748	1	i'm in love with a stripper remix f twista	i'm in love with a stripper remix	twista	V	He is a featurer	[r2805717]5
+w	2769	1	infatuated memphis bleek music codes	infatuated	memphis bleek	V	-	[r6238647]1
+k	323234	2	paula deanda ft. baby bash doing too much	doing too much	paula deanda	baby bash	V	d@Full Tilt Remix Volume Four	[r856160]1
+k	323253	1	martina mcbride broken wing karaoke download	broken wing	martina mcbride	V	s@a broken wing	[r5967679]5
+k	323269	1	children of the corn - american dream	american dream	children of the corn	V	-	[r1704642]B4
+k	323271	4	listen to lil wayne fat joe paul wall rick ross holla at me baby	holla at me baby	lil wayne	fat joe	paul wall	rick ross	V	d@Listennn - The Album (Clean)	[r1382202]6
+k	323273	3	http www.easy-sharing.com 334085 17 hustler's prayer - notorious b.i.g. feat. jim jones produced by green lantern .mp3.html	hustler's prayer	notorious b.i.g.	jim jones	green lantern	V	d@Alive On Arrival	[r4157341]17
+k	323292	3	shawna ft. jim jones and ludacris - getting some remix	getting some remix	shawna	jim jones	ludacris	V	s@Getting Some Head (Remix)|d@	[r2243069]9
+k	323316	2	free nelly furtado featuring timbaland promiscuous download for itunes	promiscuous	nelly furtado	timbaland	V	-	[r776143]B1
+k	323352	2	lyrics to field mob song so what featuring ciara	so what	field mob	ciara	V	-	[r3207813]A3
+k	323395	3	01-busta rhymes -i love my bitch feat will i am and kelis www.pctrecords.com .mp3	i love my bitch	01-busta rhymes	will i am	kelis	V	d@Kick Push [RMX] / I Love My Bitch [RMX]	[r5233842]B
+k	323399	2	webjay - paula deanda feat baby bash - doing too much	doing too much	paula deanda	baby bash	V	-	[r856160]1
+k	323400	2	'touch it' remix feat. lloyd banks and papoose video	'touch it' remix	lloyd banks	papoose	V	-	[r1307988]A2
+k	323414	2	bossy - kelis feat. too short lyrics	bossy	kelis	too short	V	-	[r1939897]1
+k	323487	3	music video for i never snitch remix by scarface featuring the game and beaniesiegel	i never snitch remix	scarface	the game	beaniesiegel	V	d@My Homies Part 2|s@never snitch	[r942045]1-3
+k	323497	2	i'm in love with a stripper remix f twista akon lyics	i'm in love with a stripper remix	twista	akon	V	Sin akon...	[r2805717]5
+k	323506	2	lyrics for paula deanda's doin to much feat baby bash	doin to much	paula deanda	baby bash	V	-	[r856160]1
+k	323615	1	lyrics to bestfriend remixby 50 cent	bestfriend	50 cent	V	-	[r6781318]2-6
+k	323651	2	ashlee simpson l.o.v.e lyrics for remix featuring missy elliot	l.o.v.e	ashlee simpson	missy elliot	V	-	[r3256663]4
+k	323690	2	about you song featuring william lyrics by mary j blige	about you	mary j blige	william	V	-	[r785454]B3
+k	323699	2	timberland & magoo feat fat man scoop - you got served soundtrack - now drop	now drop	timberland & magoo	fat man scoop	V	s@drop	[r4528251]2
+k	323749	2	rompe remix by daddy yankee feat. g-unit	rompe	daddy yankee	g-unit	V	d@Reggaeton Club Bangerz Vol. 20	[r6483289]A1
+k	323764	2	dynamite hack- anyway featuring emily kate	anyway	dynamite hack	emily kate	V	-	[r5510577]42
+k	323825	3	lil jon feat. e-40 & sean paul - snap yo fingers lyric	snap yo fingers	lil jon	e-40	sean paul	V	d@Snap Yo Fingers	[r1389350]A1
+k	323656	6	http t-pain f.twista paul wall pimp c mjg too short a-kon im in luv wit a stripper lyrics	im in luv wit a stripper	t-pain	paul wall	pimp c	mjg	too short	a-kon	V	-	[r2805717]5
+k	323940	3	holla at me baby lyrics paul wall lil wayne rick ross	holla at me baby	paul wall	lil wayne	rick ross	V	d@Listennn - The Album (Clean)	[r1382202]6
+k	323975	4	touch it remix with dmx papoose rah digga missy elliot lyrics	touch it remix	dmx	papoose	rah digga	missy elliot	V	d@Touch It (Remixes)	[r1307988]B1
+k	324041	3	so what lyrics by jazze pha feat. ciara and field mob	so what	jazze pha	ciara	mob	V	jazze pha is producer	[r3207813]A3

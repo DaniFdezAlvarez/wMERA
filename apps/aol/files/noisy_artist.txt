@@ -1,0 +1,171 @@
+r.kelly||teddypendegrass||anyway||zion y lenox||dem franchize boys||steve marting||to stort||ta'mar||timberland||rhana||witney huston||anthonyb||ying yang twin||silk the shocker||fat man scoop||destra||eruka baduha||pitbul||r kelly||dem franchise boys||black butterfly||paulwall||bennie man||robbie willams||field mobb||keisha coles||moshanda||ghost face||mannie fres||pharell||fat||sasha||delph||bone thugs||blue cantrell||jae hood||d. jungle girl||mariah||swizz beats||seal paul||sarah mclaughlin||papoose||harold melvin an the bluenotes||lloyd||jamaica||dem fanchise boyz||nb riderz||maty j blige||franke beverly||nb riders||jadakiss you was in my titty||jada||american idol's frenchie davis||fabulous||ca'ron||shakire||beaniesiegel||moob dep||lil ke ke||pimpc.||8 ball||tango red||ghostface killer||ghostface||paul waul||Parece que se refiere a maze||tasha||killr mike||neyo||bowwow||dem francise boy||snoop dog||fee wifey||50cent||ciarra||sanata||2short||acon||john legends||bo hagen||jhene||rhianna||omar||too short||ghost face killah||sizz||papoos||giuwine||jayz||j-lo||sara mclaughlin||rap r&b trina||busta rymes||djay||krazie bone||feild mobb||free wifey||whyclef||missy||frankie bevely||maze||paula deandra||magestik||j lo||jenifer lopez||georgia||mandigo||filed mob||terror squad||the ying yang||remy||2 pac||pharrell||kango of partners-n-crime||the balck eyed peas||vibez kartel||lil jon||cam||frankly beverly||tpain||dmz||robin||lloyd bas||field mod||j.z numb||grand master flash||bo hagon||nelle furtado||keyshia coles||vybez kartel||missy eliot||krazy bone||shatasha||olivia bestfriend||shawanna||ludicris||lil' wanyne||fantasia barrino||martha||rakim y keny||m&m||margie harrell||diamond &princess||jeezy||twiata||wyclef learn chinese||01-busta rhymes||lauper||green lantern||keyisha coles||white lions||genie
+8a	timberland	Probablemente se refiere al grupo Timbaland
+18a	pitbul	Debería escribirse pitbull
+22a	bennie man	Debería escribirse Beenie man
+25a	delph	puede ser artista, pero es más común que sea ruido
+30a	snoop dogg produced by mannie fres --> mannie fres	artista snoop dogg + productor mal escrito. Debería ser 'Mannie Fresh'(from tabbed)
+31a	d. jungle girl	Grupo mal escrito: 'King Kong & D. Jungle Girls'
+36a	dem franchize boys	Grupo mal escrito. Debería ser 'Dem Franchize Boys'
+38a	kango of partners-n-crime	kango es el alias de un componente de partners-n-crime
+41a	juelz santana krazy bone.com --> krazy bone	(from tabbed)
+42a	jamaica	Hay artista que se llame así, pero es un candidato feo en este contexto
+46a	franke beverly	'frankie beverly' mal escrito
+51a	fabulous	Puede ser un rapero, pero es ruidoso
+68a	david bowie for changes --> david bowie changes	artista + canción 'changes'
+76a	snoop doglyrics --> snoop dog	
+79a	too short	 es una alias recogido en discogs del rapero Todd Shaw
+81a	ghost face killah	Debería ser 'Ghostface Killah'
+88a	juelz santana krazy bone --> krazy bone	(from tabbed)
+91a	juelz santana & dem fanchise boyz --> dem fanchise boyz	(from tabbed)
+94a	margie harrell music --> margie harrell	Debería ser margi harrel
+95a	magestik	Debería ser majestik
+113a	tpain	Debería ser 't-pain'
+125a	lil ke ke paul waul audio --> lil ke ke	Ambos son nombres mal escritos. lil keke y paul wall(from tabbed)
+125a	lil ke ke paul waul audio --> paul waul	Ambos son nombres mal escritos. lil keke y paul wall(from tabbed)
+132a	magoo and fat man scoop --> fat man scoop	(from tabbed)
+135a	diamond &princess	Debería ser 'diamond & princess'
+140a	grand master flash	 debería ser 'grandmaster flash'
+151a	jenifer lopez to song --> jenifer lopez	
+153a	witney huston	Debería ser whitney houston
+158a	destra	Es el nombre de una cantante. Su nombre artistico contiene apellido, y google saca temas de manga con 'destra'
+161a	nick lachey were you are video --> nick lachey were you are	artista colaborador + canción
+164a	r kelly	 Suele ir escrito con .
+165a	lil kim do wrong audio --> lil kim do wrong	contiene nombre de artista sucio y canción
+169a	timberland & magoo --> timberland	timberland está mal escrito(from tabbed)
+172a	sizzla last time song --> sizzla last time	
+173a	sizzla akon shabba ranks and vibez kartel --> vibez kartel	vibez kartel debería ser vybz kartel(from tabbed)
+188a	sara mclaughlin	Se refiere a Sarah mclachlan
+215a	bo hagen	Debería ser bo hagon
+220a	sizz	se refiere a sizzla
+233a	twista and keyisha coles impossible --> keyisha coles	(from tabbed)
+234a	krazie bone	Artista mal escrito
+237a	frankie bevely	artista mal escrito
+244a	jadakiss you was in my titty	artista colaborador + canción
+257a	field mod	se refiere a field mob
+259a	j.z numb	artista colaborador mal escrito (jay z) + canción
+263a	olivia bestfriend	artista colaborador + canción
+267a	eruka baduha	Se refiere a erykah badu
+268a	martha	En la query parece duducirse que se refiera a Martha Matsuda, pero aislado suena más a ruido
+275a	wyclef learn chinese	artista colaborador + canción
+286a	timbaland promiscuous for itunes --> timbaland promiscuous	artista colaborador + canción
+288a	teddypendegrass	Debería ser teddy pendegrass
+289a	anyway	Se refiere a un título de canción en la consulta, pero hay un artista llamado así. Aún así... peligro para lo que buscamos hacer
+291a	steve marting	Debería ser Steve Martin
+293a	lil ke ke paul waul chunkin up the duece --> paul waul	(from tabbed)
+295a	ciarra	Se refiere a ciara
+304a	moshanda	Se refiere a Mashonda
+310a	kanye west beanie sigel ca'ron young chris --> ca'ron	(from tabbed)
+329a	american idol's frenchie davis	american idols es el programa del que salio franchie davis
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> missy eliot	(from tabbed)
+336a	tango red	Debería ser Tango Redd
+342a	lil ke ke paul waul chunkin up the duece audio --> lil ke ke	(from tabbed)
+342a	lil ke ke paul waul chunkin up the duece audio --> paul waul	(from tabbed)
+350a	snoop dog	Debería ser Snoop Dogg
+356a	frankly beverly	Debería ser Frankie Beverly
+369a	killr mike a joi the whole world video --> killr mike	'Killer Mike', 'Joi' + canciñón en la que trabajan juntos. (from tabbed)
+388a	j lo	Jennifer Lopez
+395a	the ying yang	Se refiere a the ying yang twins... y puede ser problemático
+397a	the game and beaniesiegel --> beaniesiegel	El segundo está mal escrito, falta un espacio(from tabbed)
+401a	keyshia coles song --> keyshia coles	
+404a	robin	Se refiere a Robin Thicke parece... pero es ambiguo
+411a	jim jones produced by green lantern html --> green lantern	sería dj green lantern, para no confundir con el superheroe(from tabbed)
+421a	lil' wanyne	Sobre la comilla
+423a	timbaland promiscuous for itones --> timbaland promiscuous	artista colaborador + canción
+427a	beyonce in da club audio --> beyonce in da club	
+428a	twiata	Se refiere a twista
+432a	r.kelly acon paulwall pimpc. 2short --> r.kelly	Todos los nombres extraidos entrarían en noisy, son útiles(from tabbed)
+432a	r.kelly acon paulwall pimpc. 2short --> acon	Todos los nombres extraidos entrarían en noisy, son útiles(from tabbed)
+432a	r.kelly acon paulwall pimpc. 2short --> paulwall	Todos los nombres extraidos entrarían en noisy, son útiles(from tabbed)
+432a	r.kelly acon paulwall pimpc. 2short --> pimpc.	Todos los nombres extraidos entrarían en noisy, son útiles(from tabbed)
+432a	r.kelly acon paulwall pimpc. 2short --> 2short	Todos los nombres extraidos entrarían en noisy, son útiles(from tabbed)
+434a	bone thugs	Se refiere a bone thugs-n-Harmony
+446a	to stort	Se refiere a Too short
+458a	dem franchise boys	Sería dem franchize boyz
+460a	vybez kartel	Sería Vybz Kartel
+463a	pharell	Pharrel williams se refiere
+468a	mariah	De Mariah Carey
+470a	sarah mclaughlin	Se refiere a Sarah McLachlan
+471a	swizz beats	Debería ser swizz beatz
+472a	papoose	 Debería ser Fatman Papoose
+477a	twista and keisha coles impossible --> keisha coles	(from tabbed)
+482a	8 ball	Debería ser "8ball", junto. 
+496a	fee wifey	Se refiere a wifey, pero no averiguo el por qué del "fee"
+499a	acon	Se refiere a akon
+500a	john legends	Se refiere a john legend
+509a	papoos	Se refiere a fatman papoose
+520a	snoop dogg song beautiful --> snoop dogg beautiful	artista principal + canción
+523a	whyclef	
+525a	free wifey	Parece que es un error el free. Ruido en cualquier caso
+528a	missy	Se refiere a missy elliot
+532a	webbie & mandigo --> mandigo	Debería ser mandingo(from tabbed)
+534a	j lo song --> j lo	
+538a	terror squad	Creo que se refiere a trap squad
+540a	busta rhymes llyod bas dmx and sean paul'' --> lloyd bas	(from tabbed)
+546a	pharrell	Se refiere a Pharrel Williams
+551a	neyo	Suele tener un guión en medio
+554a	dmz	Se refiere a dmx
+559a	beyonce and mary j blige --> maty j blige	la última se refiere a mary j blige(from tabbed)
+562a	ludicris	Se refiere a ludacris
+9sa	ta'mar	
+13sa	silk the shocker	Debería ser Sikk The Shocker
+24sa	fat	Se refiere a fatman scoop
+25sa	sasha	
+28sa	jae hood	Suele llamarse j-hood, no sé si ese es mote reconocido
+32sa	seal paul	Se refiere a sean paul
+39sa	lloyd	Se refiere a lloyd banks
+63sa	ghostface	Se refiere a ghostface killah
+71sa	50cent	Suele ir con espacio
+75sa	omar	Se refiere a don omar
+112sa	cam	Se refiere a cam'ron
+126sa	white lions	Debería ser white lions
+158sa	blue cantrell	Debería ser Blu Cantrell
+180sa	field mobb	Sobra una 'b'
+185sa	jeezy	seguramente young jeezy
+198sa	harold melvin an the bluenotes	'and'm no 'an'
+222sa	tasha	Se refiere a Tasha Trannon
+229sa	sanata	se refiere a Santana
+265sa	paula deandra	Se refiere a Paula DeAnda
+281sa	the balck eyed peas	Se refiere a the black eyed peas
+286sa	bo hagon	sobra el espacio
+297sa	anthonyb	Se refiere a Anthony B
+302sa	rakim y keny	Hay bastantes formas de escribirlo, y exactamente esta no la ví.
+314sa	01-busta rhymes	Artista busta rhymes con ruido 
+315sa	lauper	Se refiere a Cyndi Lauper
+321sa	to jhene --> jhene	Se refiere a jhene aiko
+332sa	2 pac	alias habitual de tupac shakur
+344sa	ghost face	Se refiere a ghostface killah
+353sa	ying yang twin	Se refiere a the ying yang twins
+354sa	black butterfly	Se refiere a Black Buddafly
+357sa	ghostface killer	Se refiere a ghostface killah
+361sa	free fromm moob dep --> moob dep	Se refiere a moob deep
+368sa	nb riderz	se refiere a nb ridaz
+369sa	nb riders	se refiere a nb ridaz
+371sa	jada	Se refiere a jadakiss
+393sa	bowwow	Sería bow wow, separado
+399sa	rhianna	Deberia ser rihanna
+402sa	amazon maze --> Parece que se refiere a maze	
+407sa	jayz	Debería ser jay z
+409sa	listen to nelle furtado's newest song --> nelle furtado	Se refiere a nelly furtado
+413sa	feild mobb	se refiere a field mobb
+431sa	remy	se refiere a remy martin
+433sa	georgia	Se refiere a georgia girl
+437sa	of rhana --> rhana	se refiere a rihanna
+439sa	dem francise boy	se refiere a dem franchize boyz
+454sa	shatasha	Se refeire a shatasha williams
+455sa	field mob new song --> filed mob	debería ser filed mobb
+456sa	shawanna	Se refiere a Shawnna
+464sa	m&m	Es una forma de escribir eminem
+472sa	genie	Se refiere a jeanie ortega
+479sa	zion y lenox	zion & lennox
+483sa	rhana	Se refiere a rihanna
+499sa	robbie willams	sería robbie williams
+514sa	shakire	Shakira sería
+518sa	lil jon & the eastside boyz --> lil jon	El primero mal escrito(from tabbed)
+535sa	djay	Se refiere a d'jay
+545sa	fantasia barrino	Fantasia Monique Barrino
+551sa	giuwine	se refiere a ginuwine
+552sa	j-lo	Se refiere a jennifer lopez
+555sa	busta rymes	se refiere a busta rhymes
+560sa	maze	Se refiere a mase
+578sa	pharrell	Se refiere a pharrell williams
+613sa	rap r&b trina	dos géneros + nombre artista

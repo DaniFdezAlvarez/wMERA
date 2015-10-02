@@ -1,0 +1,556 @@
+sherwayne weschester||kelly prince||juanita bell||lil wane||moob deep||paul wall||izzy||dynamix||steve howe||mary j. blige||dj don welch||tweet||diana degarmo||zhane||fat joe||master p||brides of destruction||suga free||eve||bob marley||petey pablo||flashy||jodi breeze||s.t.f.||p.didy||sadat x||janet jackson||fabulous||keyshia cole||whitney houston||ne-yo||sarah mcla||frankie beverly||s club 8||teddy pendergrass||tito el bambino||naoto suzuki||busta rhymes||lloyd banks||eminem||kurupt||elvis presley||jamie foxx||too short||dre||ying yang twins||butterfly boucher||lil'bow wow||diamond & princess||shabba ranks||frankie j||q unique||donald hayes||buttons||omarion happy||3lw||crystal lewis||pit bull||chamillionaire||bun b||robin thicke||ms. jade||jennifer lopez||nick lachey||2pac||the eastside boyz||kanye west||dr dre||big pun||bright eyes||gwen stefani||the new cars||kirk franklin||webbie||marcos hernandez||mis-teeq||razah||paul mccoy||santana||styles p||fatman scoop||wyclef jean||korupt||r. kelly||sisqo||elvis white||avant||daddy yankee||the diplomats||keak da sneak||amerie||ludacris||chester bennington||ashanti||magoo||gwyneth paltrow||tony yayo||grout||jae millz||fat man scoop||d4l||chingo bling||beyonce||j hood||jr writer||nelly furtado||smash mouth||melvin seals||bone thugs||olivia||notorious b.i.g.||one be lo||des-row||wisin y yandel||the d.o.c||pimp c||cashmere||lauryn hill||jay-z||gwem stefani||tiffany||rick ross||don omar||jamie principle||jay z||sparkle||ray j||bobby valentino||missez||donell jones||d-block||outkast||t.i.||dj encore||ja rule||patrick stump||dj clue||keen||the beattles||dame dash||ashlee simpson||jazze pha||b'nois king||linkin park||g-unit||tricosta|| brent jones||angie stone||brent jones and the tp mobb||remy ma||the game||pretty ricky||krayzie bone||machel montano||mr.gee||outwork||bow wow||chris brown||kozme||stf||my chemical romance||lil jon||mannie fresh||necro||field mob||geoff downes||riden||sean biggs||l.l. cool j||nick cannon||rhymefest||bubba sparxxx||dilated peoples||cuban link||machel montana||faith evans||d.o.c||michelle branch||paul wall verse on just a touch||yo gotti||t-pain||r-kelly||ugk||robby rosa||r.kelly||queen||aventura||lloyd||young buck||skye||rihanna||earth wind and fire||the smokin' joe kubek band||the tp mobb||jill scott||ginuwine||notorious big||musiq soulchild||erykah badu||memphis bleek||carl palmer||ron g||boom bip||lil wayne||vybz kartel||freeze||lyfe||nouri||tego calderon||mike jones||lil' wayne||motley crue||paula deanda||baby bash||charlie wilson||veruca salt||lil scrappy||joi||soulja slim||snoop dogg||kelly rowland||jin||rhianna||dj green lantern||ludachris||october fall||toni braxton||alicia keys||título canción (camera phone) + artista mal escrito (da muzicians)||pharrell williams||wyclef||mac g||hemstock and jennings||nina nastasia||fabolous||tiny||lyfe jennings||daryl coley||beanie sigel||young jeezy||onyx||jack johnson||tamia||timbaland||gerald levert||e40||blackstreet||the clipse||young chris||speedknot mobstaz||paul oakenfold||pantera||lil bow wow||missy elliot||lil boosie||jim jones||twista||ghostface killah||nate dog||mariah carey||jessica simpson||shurwayne winchester||omarion||engelina||london legrand||lil' jon||rah diggah||das efx||pitbull||clipse||alejandro sanz||hell rell||nikki sixx||noah||jadakiss||frank sinatra||wifey||ciara||prince||black rob||mary j blige||jhon wetton||50 cent||david phelps||trina||raven||mobb deep||stevie b and friends||dru hill||papoose||lil keke||anthony b||jagged edge||willie hutch||cam'ron||korn||usher||the ying yang twins||shakira||jgb||destiny's child||juelz santana||trillvile||e 40||lyfe freeze||trick daddy||busta ryhmes||kelis||akon||nelly||amy lee||brian mcknight||gerona||sean paul||cherish||emily kate||lady saw||obie trice||tighteyez||anthony hamilton||tracii guns||tribs||left eye||bravehearts||adam white||mista sinista||jody breeze||john b||dynamite hack||lil john||pussycat dolls||coko||seether||sizzla||paris avenue||trap squad||scot coogan||ll cool j||erik shepard||e-40||dmc||eckspress||8ball and mjg||grayarea||mashonda||harold melvin and the blue notes||cassidy||dmx||lil kim||juvenile||yung joc||tyrese||ill bill||n'dea davenport||b.g.||mya||benjai||christina milian||nas||sarah mclachlan||wise hand||david bowie||brand new||rev. run||william||snitch||bun-b||mase||will i am||john mayer
+2a	juanita bell	Es una artista, pero no sale ni en discogs
+3a	lil wane	-
+6a	paul wall	-
+7a	izzy	 Si pones Izzy en google/discogs, sale Izzy Stradlin. En las consultas en que encontré a este izzy, se refieren a una rapero poco conocido.
+9a	twista new video --> twista	
+10a	mary j. blige	-
+11a	frankie beverly website address --> frankie beverly	
+12a	dj don welch	-
+13a	beanie sigel and memphis bleek --> beanie sigel	(from tabbed)
+13a	beanie sigel and memphis bleek --> memphis bleek	(from tabbed)
+14a	tweet	-
+15a	diana degarmo	-
+17a	gerald levert and kelly price --> gerald levert	(from tabbed)
+17a	gerald levert and kelly price --> kelly prince	(from tabbed)
+20a	fatman scoop myspace video codes --> fatman scoop	
+21a	n'dea davenport	-
+23a	zhane	
+24a	e40	
+27a	lloyd banks and papoose --> lloyd banks	(from tabbed)
+27a	lloyd banks and papoose --> papoose	(from tabbed)
+28a	master p	rapero
+30a	snoop dogg produced by mannie fres --> snoop dogg	artista snoop dogg + productor mal escrito. Debería ser 'Mannie Fresh'(from tabbed)
+32a	lyfe jennings freeze --> lyfe jennings	(from tabbed)
+32a	lyfe jennings freeze --> freeze	(from tabbed)
+33a	eve	Es una rapera, pero puede ser muchas cosas
+35a	petey pablo	
+39a	jodi breeze	
+40a	s.t.f.	
+41a	juelz santana krazy bone.com --> juelz santana	(from tabbed)
+48a	sadat x	
+49a	janet jackson	
+50a	usher	
+54a	twista and jamie foxx --> twista	(from tabbed)
+54a	twista and jamie foxx --> jamie foxx	(from tabbed)
+55a	whitney houston	
+56a	ne-yo	
+57a	sarah mcla	Alias común de Sarah McLachan
+58a	frankie beverly	
+60a	ciara for free --> ciara	
+61a	will i am and kelis www.pctrecords.com --> will i am	(from tabbed)
+61a	will i am and kelis www.pctrecords.com --> kelis	(from tabbed)
+62a	lil keke paul wall audio --> lil keke	(from tabbed)
+62a	lil keke paul wall audio --> paul wall	(from tabbed)
+64a	teddy pendergrass	
+65a	lil wayne	
+67a	busta rhymes	
+70a	kelis	
+73a	kurupt	
+74a	elvis presley	
+75a	r.kelly paul wall and mike jones --> r.kelly	(from tabbed)
+75a	r.kelly paul wall and mike jones --> paul wall	(from tabbed)
+75a	r.kelly paul wall and mike jones --> mike jones	(from tabbed)
+82a	diamond & princess	
+84a	fat joe lil wayne rick ross music video --> fat joe	(from tabbed)
+84a	fat joe lil wayne rick ross music video --> lil wayne	(from tabbed)
+84a	fat joe lil wayne rick ross music video --> rick ross	(from tabbed)
+85a	frankie j	
+86a	jagged edge	
+87a	donald hayes	Pero el Donald Hayes más conocido juega al furbol americano
+88a	juelz santana krazy bone --> juelz santana	(from tabbed)
+89a	mase eminem --> mase	(from tabbed)
+89a	mase eminem --> eminem	(from tabbed)
+90a	bone thugs and twista --> bone thugs	(from tabbed)
+90a	bone thugs and twista --> twista	(from tabbed)
+91a	juelz santana & dem fanchise boyz --> juelz santana	(from tabbed)
+93a	chamillionaire	
+96a	e40 listen --> e40	
+97a	b.g. and juvenile --> b.g.	(from tabbed)
+97a	b.g. and juvenile --> juvenile	(from tabbed)
+98a	lil keke paul wall pimp c audio --> lil keke	(from tabbed)
+98a	lil keke paul wall pimp c audio --> paul wall	(from tabbed)
+98a	lil keke paul wall pimp c audio --> pimp c	(from tabbed)
+99a	jennifer lopez	
+101a	nick lachey	
+104a	eve music video code --> eve	
+105a	kanye west	
+108a	dr dre	
+109a	big pun	
+110a	bright eyes	
+112a	gwen stefani	
+115a	ying yang twins	
+117a	kirk franklin	
+119a	webbie	
+121a	marcos hernandez	
+122a	the beatles in 1964 --> the beattles	
+123a	razah	
+126a	paul mccoy	Vocalista del grupo Stones
+129a	myspace music codes lil scrappy --> lil scrappy	
+130a	fatman scoop	
+131a	wyclef jean	
+132a	magoo and fat man scoop --> magoo	(from tabbed)
+134a	korupt	
+136a	aventura lryics --> aventura	
+137a	queen and david bowie --> queen	(from tabbed)
+137a	queen and david bowie --> david bowie	(from tabbed)
+138a	r. kelly	
+139a	sisqo	
+141a	avant	
+142a	daddy yankee	
+145a	kozme lryics --> kozme	
+148a	ludacris	
+150a	ashanti	
+154a	gwyneth paltrow	
+155a	tony yayo	
+156a	grout	
+157a	fat man scoop	
+159a	d4l	
+160a	chingo bling	
+162a	jay-z video --> jay-z	
+163a	j hood	
+169a	timberland & magoo --> magoo	timberland está mal escrito(from tabbed)
+170a	nelly furtado	
+171a	engelina	
+173a	sizzla akon shabba ranks and vibez kartel --> sizzla	vibez kartel debería ser vybz kartel(from tabbed)
+173a	sizzla akon shabba ranks and vibez kartel --> akon	vibez kartel debería ser vybz kartel(from tabbed)
+173a	sizzla akon shabba ranks and vibez kartel --> shabba ranks	vibez kartel debería ser vybz kartel(from tabbed)
+175a	melvin seals	
+177a	olivia	
+180a	notorious b.i.g.	
+181a	brides of destruction	
+182a	wisin y yandel	
+183a	the d.o.c	
+184a	pimp c	
+185a	lauryn hill	
+186a	necro ill bill --> necro	(from tabbed)
+186a	necro ill bill --> ill bill	(from tabbed)
+191a	tiffany	
+192a	robby rosa to --> robby rosa	
+193a	keyshia colelyrics --> keyshia cole	
+194a	rick ross	
+196a	don omar	
+198a	jay z	
+202a	bobby valentino	
+204a	outkast	
+207a	50 cent 2006 newest c-d --> 50 cent	
+208a	t.i.	
+210a	dj encore	
+211a	ja rule	
+212a	mista sinista	
+213a	dj clue	
+214a	keyshia cole video --> keyshia cole	
+217a	keen	
+221a	david bowie lyriscs for changes --> david bowie	
+222a	b'nois king	
+224a	linkin park	
+226a	g-unit	
+227a	tricosta	
+229a	angie stone	
+230a	brent jones and the tp mobb -->  brent jones	(from tabbed)
+230a	brent jones and the tp mobb --> the tp mobb	(from tabbed)
+233a	twista and keyisha coles impossible --> twista	(from tabbed)
+235a	the game	
+238a	pretty ricky	
+240a	krayzie bone	
+241a	machel montano	
+242a	snoop dogg and ludacris --> snoop dogg	(from tabbed)
+242a	snoop dogg and ludacris --> ludacris	(from tabbed)
+243a	bow wow	
+245a	chris brown	
+246a	kozme	
+252a	lil jon	
+254a	the game and kanye west --> the game	(from tabbed)
+254a	the game and kanye west --> kanye west	(from tabbed)
+256a	ludachris	
+258a	field mob	
+261a	ciara new song called so what --> ciara	
+264a	l.l. cool j	
+265a	keyshia cole	
+266a	rhymefest	
+269a	machel montana	
+274a	mis-teeq	
+277a	paul wall ugk --> paul wall	(from tabbed)
+277a	paul wall ugk --> ugk	(from tabbed)
+280a	t-pain	
+283a	r-kelly	
+284a	ugk	
+285a	robby rosa	
+287a	william by mary j blige --> william	(from tabbed)
+287a	william by mary j blige --> mary j blige	(from tabbed)
+290a	aventura	Es una palabra muy común, pero en consultas en inglés si puede ser eficazmente detedtada como grupo musical
+292a	lloyd	
+293a	lil ke ke paul waul chunkin up the duece --> lil keke	(from tabbed)
+294a	papoose lil wayne trina & jae millz conceited --> papoose	(from tabbed)
+294a	papoose lil wayne trina & jae millz conceited --> lil wayne	(from tabbed)
+294a	papoose lil wayne trina & jae millz conceited --> trina	(from tabbed)
+294a	papoose lil wayne trina & jae millz conceited --> jae millz	(from tabbed)
+296a	young buck	
+297a	mike jones paul wall --> mike jones	(from tabbed)
+297a	mike jones paul wall --> paul wall	(from tabbed)
+299a	skye	
+300a	jadakiss	
+305a	ciara and field mob --> ciara	(from tabbed)
+305a	ciara and field mob --> field mob	(from tabbed)
+306a	chester bennington	Vocalista Linkin Park
+307a	willie hutch review --> willie hutch	
+308a	lil keke paul wall pimp c thrown the duece audio --> lil keke	(from tabbed)
+308a	lil keke paul wall pimp c thrown the duece audio --> paul wall	(from tabbed)
+308a	lil keke paul wall pimp c thrown the duece audio --> pimp c	(from tabbed)
+309a	musiq soulchild	
+310a	kanye west beanie sigel ca'ron young chris --> kanye west	(from tabbed)
+310a	kanye west beanie sigel ca'ron young chris --> beanie sigel	(from tabbed)
+310a	kanye west beanie sigel ca'ron young chris --> young chris	(from tabbed)
+313a	memphis bleek	
+317a	ron g	
+323a	motley crue	El nombre oficial se escribe con caracteres especiales, pero queda tal cual tras normalización
+326a	by mariah carey --> mariah carey	
+327a	nikki sixx tracii guns scot coogan and london legrand --> nikki sixx	Todos ellos miembros de Brides of Destruction(from tabbed)
+327a	nikki sixx tracii guns scot coogan and london legrand --> tracii guns	Todos ellos miembros de Brides of Destruction(from tabbed)
+327a	nikki sixx tracii guns scot coogan and london legrand --> scot coogan	Todos ellos miembros de Brides of Destruction(from tabbed)
+327a	nikki sixx tracii guns scot coogan and london legrand --> london legrand	Todos ellos miembros de Brides of Destruction(from tabbed)
+330a	lyfe	
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> mary j blige	(from tabbed)
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> rah diggah	(from tabbed)
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> papoose	(from tabbed)
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> dmx	(from tabbed)
+331a	mary j blige missy eliot rah diggah papoose dmx and lloyd banks --> lloyd banks	(from tabbed)
+332a	nouri	
+334a	faith evans	
+337a	mike jones	
+338a	lil wayne fat joe pit bull --> lil wayne	(from tabbed)
+338a	lil wayne fat joe pit bull --> fat joe	(from tabbed)
+338a	lil wayne fat joe pit bull --> pit bull	(from tabbed)
+339a	mase eminem instrumental --> mase	(from tabbed)
+339a	mase eminem instrumental --> eminem	(from tabbed)
+340a	lil' wayne	
+341a	frank sinatra	
+344a	paula deanda	
+345a	snoop dogg produced by mannie fresh --> snoop dogg	(from tabbed)
+345a	snoop dogg produced by mannie fresh --> mannie fresh	(from tabbed)
+346a	baby bash	
+347a	charlie wilson	
+348a	veruca salt	
+351a	soulja slim	
+353a	snoop dogg	
+358a	kelly rowland	
+359a	rhianna	
+362a	dj green lantern	
+366a	mannie fresh	
+368a	toni braxton	
+369a	killr mike a joi the whole world video --> joi	'Killer Mike', 'Joi' + canciñón en la que trabajan juntos. (from tabbed)
+371a	alicia keys	
+375a	pharrell williams	
+376a	wyclef	
+378a	trina	
+379a	fabolous	
+380a	tiny	Pero tiene peligro...
+381a	paul wall new song --> paul wall	
+382a	ciara by field mob --> ciara	(from tabbed)
+382a	ciara by field mob --> field mob	(from tabbed)
+383a	lyfe jennings	
+387a	young jeezy	
+389a	onyx	Pero más veces será el software
+390a	jack johnson	
+391a	tamia	
+392a	john wetton geoff downes steve howe and carl palmer --> jhon wetton	Todos ellos de la banda Asia(from tabbed)
+392a	john wetton geoff downes steve howe and carl palmer --> geoff downes	Todos ellos de la banda Asia(from tabbed)
+392a	john wetton geoff downes steve howe and carl palmer --> steve howe	Todos ellos de la banda Asia(from tabbed)
+392a	john wetton geoff downes steve howe and carl palmer --> carl palmer	Todos ellos de la banda Asia(from tabbed)
+393a	timbaland	
+394a	akon by t-pain --> akon	(from tabbed)
+394a	akon by t-pain --> t-pain	(from tabbed)
+397a	the game and beaniesiegel --> the game	El segundo está mal escrito, falta un espacio(from tabbed)
+399a	blackstreet	
+400a	the clipse	
+402a	paul oakenfold	
+405a	pantera	
+407a	lil bow wow	
+408a	mya	
+409a	jim jones	
+410a	twista	
+411a	jim jones produced by green lantern html --> jim jones	sería dj green lantern, para no confundir con el superheroe(from tabbed)
+413a	ghostface killah	
+414a	nate dog	
+415a	mariah carey	
+416a	fabolous video codes --> fabulous	
+419a	flashy & akon --> flashy	(from tabbed)
+419a	flashy & akon --> akon	(from tabbed)
+425a	jim jones and black rob --> jim jones	(from tabbed)
+425a	jim jones and black rob --> black rob	(from tabbed)
+426a	lil' jon	
+430a	lloyd banks and papoose video --> lloyd banks	(from tabbed)
+430a	lloyd banks and papoose video --> papoose	(from tabbed)
+431a	sean paul music video --> sean paul	
+436a	pitbull	
+437a	michelle branch	
+438a	hell rell	
+441a	noah	
+442a	earth wind and fire	
+444a	erykah badu	
+445a	wyclef cd --> wyclef	
+447a	ciara	
+450a	prince	
+453a	50 cent	
+455a	david phelps	
+457a	nina nastasia	
+459a	raven	
+461a	tighteyez wifey --> tighteyez	(from tabbed)
+461a	tighteyez wifey --> wifey	(from tabbed)
+464a	mobb deep	
+467a	stevie b and friends	
+469a	dru hill	
+474a	brian mcknight	
+476a	ciara and field mob so what --> ciara	(from tabbed)
+476a	ciara and field mob so what --> field mob	(from tabbed)
+477a	twista and keisha coles impossible --> twista	(from tabbed)
+478a	the ying yang twins	
+479a	shakira	
+483a	twista & lil jon --> twista	(from tabbed)
+483a	twista & lil jon --> lil jon	(from tabbed)
+484a	destiny's child	
+485a	e-40 & sean paul --> e-40	(from tabbed)
+485a	e-40 & sean paul --> sean paul	(from tabbed)
+488a	lil wayne video code --> lil wayne	
+489a	lyfe freeze	
+491a	akon	
+492a	nelly	Hay un rapero que se llama Nelly, y a él se refieren en la query, no Nelly Furtado
+493a	amy lee	
+494a	lil keke	
+495a	gerona	
+498a	omarion happy	
+501a	music code webbie --> webbie	
+503a	lil keke audio --> lil keke	
+504a	sean paul	
+505a	emily kate	
+507a	mary j. blige missy elliot --> mary j. blige	(from tabbed)
+507a	mary j. blige missy elliot --> missy elliot	(from tabbed)
+508a	lady saw	
+511a	kanye west & the game --> kanye west	(from tabbed)
+511a	kanye west & the game --> the game	(from tabbed)
+512a	mr. gee my space --> mr.gee	
+513a	eve music code --> eve	
+514a	anthony hamilton	
+516a	tribs	
+517a	paul wall rick ross lil wayne and pitbull --> paul wall	(from tabbed)
+517a	paul wall rick ross lil wayne and pitbull --> rick ross	(from tabbed)
+517a	paul wall rick ross lil wayne and pitbull --> lil wayne	(from tabbed)
+517a	paul wall rick ross lil wayne and pitbull --> pitbull	(from tabbed)
+518a	left eye	
+519a	bravehearts	
+521a	adam white	El Adam White más famoso es futbolista, pero hay un DJ
+522a	patrick stump	
+524a	jody breeze	
+527a	john b	
+529a	tweet timbaland and magoo --> tweet	(from tabbed)
+529a	tweet timbaland and magoo --> timbaland	(from tabbed)
+529a	tweet timbaland and magoo --> magoo	(from tabbed)
+532a	webbie & mandigo --> webbie	Debería ser mandingo(from tabbed)
+533a	coko	
+535a	sizzla	
+537a	d.o.c	
+539a	trap squad	
+540a	busta rhymes llyod bas dmx and sean paul'' --> busta rhymes	(from tabbed)
+540a	busta rhymes llyod bas dmx and sean paul'' --> dmx	(from tabbed)
+540a	busta rhymes llyod bas dmx and sean paul'' --> sean paul	(from tabbed)
+542a	ll cool j	
+544a	erik shepard	
+547a	8ball and mjg	
+548a	grayarea	
+549a	mashonda	
+552a	dmx	
+553a	lil kim	
+555a	tyrese	
+556a	ill bill	
+557a	lloyd banks remix --> lloyd banks	
+558a	missy elliot	
+559a	beyonce and mary j blige --> beyonce	la última se refiere a mary j blige(from tabbed)
+560a	christina milian	
+563a	nas	
+564a	sarah mclachlan	
+566a	david bowie	
+567a	rev. run	
+568a	juvenile and speedknot mobstaz --> juvenile	(from tabbed)
+568a	juvenile and speedknot mobstaz --> speedknot mobstaz	(from tabbed)
+570a	timbaland by nelly furtado. --> timbaland	(from tabbed)
+570a	timbaland by nelly furtado. --> nelly furtado	(from tabbed)
+572a	mase	
+575a	akon snitch --> akon	(from tabbed)
+575a	akon snitch --> snitch	(from tabbed)
+576a	4 hemstock and jennings --> hemstock and jennings	
+577a	john mayer	
+579a	vybz kartel sizzla and akon --> vybz kartel	(from tabbed)
+579a	vybz kartel sizzla and akon --> sizzla	(from tabbed)
+579a	vybz kartel sizzla and akon --> akon	(from tabbed)
+2sa	sherwayne weschester	artista
+6sa	moob deep	artista
+7sa	paul wall	artista
+17sa	listen to missy elliot --> missy elliot	
+23sa	ashlee simpson	
+27sa	fat joe	
+31sa	trillvile	
+33sa	suga free	
+35sa	bob marley	
+43sa	p.didy	
+44sa	dynamix	
+45sa	outwork	
+46sa	chris brown	
+51sa	nelly furtado	
+53sa	ne-yo	
+58sa	s club 8	
+60sa	''missy elliot --> missy elliot	
+62sa	lil wayne	
+64sa	naoto suzuki	
+65sa	busta rhymes	
+69sa	eminem	
+78sa	too short	
+79sa	dre	
+81sa	butterfly boucher	
+82sa	lil'bow wow	
+86sa	jagged edge	
+89sa	rihanna	
+91sa	for camera phone by da muzicians --> título canción (camera phone) + artista mal escrito (da muzicians)	
+92sa	3lw	
+94sa	song ludacris --> ludacris	
+96sa	bun b	
+97sa	robin thicke	
+98sa	ms. jade	
+104sa	2pac	
+107sa	kanye west	
+111sa	gwen stefani	
+116sa	the new cars	
+124sa	santana	
+128sa	styles p	
+132sa	sizzla new single --> sizzla	
+140sa	jessica simpson	
+145sa	shurwayne winchester	
+149sa	elvis white	
+150sa	avant	
+151sa	daddy yankee	
+153sa	the diplomats	
+155sa	keak da sneak	
+159sa	amerie	
+162sa	ludacris	
+166sa	ashanti	
+167sa	songs by the diplomats --> the diplomats	
+172sa	jin	
+173sa	beyonce	
+174sa	j hood	
+175sa	jr writer	
+182sa	listen to dmx --> dmx	
+183sa	memphis bleek	
+186sa	olivia	
+193sa	one be lo	
+194sa	des-row	
+197sa	cashmere	
+204sa	eve	
+205sa	rick ross	
+206sa	jamie principle	
+207sa	smash mouth video --> smash mouth	
+212sa	sparkle	
+214sa	ray j	
+216sa	missez	
+217sa	donell jones	
+221sa	outkast	
+225sa	t.i.	
+236sa	listen shakira --> shakira	
+237sa	dame dash	
+239sa	listen to nelly furtado's newest song --> nelly furtado	
+242sa	jazze pha	
+246sa	linkin park	
+249sa	brent jones and the tp mobb	
+254sa	remy ma	
+255sa	the game	
+259sa	dilated peoples	
+275sa	stf	
+285sa	field mob	
+292sa	riden	
+294sa	sean biggs	
+295sa	l.l. cool j	
+300sa	bubba sparxxx	
+317sa	paul wall verse on just a touch	artista colaborador + canción
+318sa	yo gotti	
+326sa	free nelly furtado --> nelly furtado	
+328sa	aventura	
+336sa	crystal lewis cd --> crystal lewis	
+338sa	buttons	
+346sa	e-40	
+347sa	ginuwine	
+349sa	dmc	
+351sa	notorious big	
+356sa	q unique	
+362sa	boom bip	
+366sa	tito el bambino	
+372sa	freeze	
+373sa	my chemical romance	
+375sa	to nick cannon --> nick cannon	
+377sa	lloyd banks	lloyd banks
+378sa	tego calderon	
+383sa	mike jones	
+388sa	music video codecs fabulous --> fabulous	
+398sa	mary j blige	
+414sa	fabolous	
+416sa	daryl coley	
+420sa	beanie sigel	
+421sa	d-block	
+422sa	young jeezy	
+427sa	timbaland	
+432sa	e40	
+442sa	to omarion --> omarion	
+446sa	lil boosie	
+448sa	twista	
+449sa	harold melvin and the blue notes	
+451sa	mariah carey	
+453sa	shakira's new song --> shakira	
+466sa	mobb deep	
+467sa	das efx	
+471sa	pitbull	
+474sa	clipse	
+475sa	alejandro sanz	
+477sa	jadakiss	
+482sa	ciara	
+487sa	october fall	
+488sa	50 cent	
+500sa	cuban link	
+504sa	lil keke	
+506sa	anthony b	
+507sa	a list of the clipse new songs --> clipse	
+509sa	cam'ron	
+510sa	wise hand	
+515sa	shakira	
+517sa	mac g	
+518sa	lil jon & the eastside boyz --> the eastside boyz	El primero mal escrito(from tabbed)
+521sa	jgb	siglas de Jerry Garcia Band, se le nombra así
+527sa	to jill scott --> jill scott	
+528sa	e 40	
+531sa	busta ryhmes	
+533sa	akon	
+534sa	nelly	
+536sa	dynamite hack	
+541sa	gwem stefani	
+543sa	cherish	
+547sa	obie trice	
+553sa	jennifer lopez song --> jennifer lopez	
+561sa	lil john	
+562sa	pussycat dolls	
+564sa	seether	
+568sa	nick cannon	
+569sa	paris avenue	
+571sa	trap squad	
+572sa	ll cool j	
+574sa	music video codes fabulous --> fabulous	
+580sa	eckspress	
+582sa	mashonda	
+584sa	the smokin' joe kubek band	
+585sa	cassidy	
+587sa	dmx	
+588sa	juvenile	
+590sa	yung joc	
+595sa	b.g.	
+596sa	mya	
+597sa	benjai	
+602sa	christina milian	
+607sa	korn	
+608sa	brand new	
+610sa	trick daddy	
+616sa	bun-b	

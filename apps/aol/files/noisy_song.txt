@@ -1,0 +1,91 @@
+my playthang||im in love ith a stripper||im in love with a stripper||get thowed||my plaything||nombre artista ||sow you what i'm workin' wit||midnight||l.o.v.e. missy underground mix||holla at my baby||im in love with a stipper||bad||in luv with a stripper remix||doing too much-||whats happening||chuckin up the deuce||action||you can be the one i need||new york sh||im in love wit a stripper
+11s	for song so what by field mob --> so what field mob	canción + artista
+20s	watch black buddafly bad girl --> black buddafly bad girl	artista + canción
+30s	to you got me by jill scott --> you got me by jill scoot	Ruidosa, letra canción + artista
+49s	for dime piece by nick cannon --> dime piece by nick cannon	Nombre canción más artista
+72s	to satisfy you by p diddy --> Satisfy you by p diddy	Nombre canción + artista
+77s	action	Se refiere a i need some action en la consulta que se cazó
+80s	chuckin up the deuce audio lil keke --> chuckin up the deuce lil keke	Nombre de canción mal escrito (chunk) + artista (lil keke)
+93s	to feels so good by remy martin --> feels so good remy martin	Nombre de canción + artista (remy martin)
+101s	im real by jennifer lopez --> im real jennifer lopez	nomnre canción + artista
+108s	for crossroads by david banner --> crossroads david banner	nomnbre canción + artista
+118s	to obsession by frankie j --> obsession frankie j	nombre canción + artista
+129s	to i thought i told you that by anastacia --> i tohught i told you that anastacia	canción + artista
+133s	to crowded by jeannie ottega --> crowded jeannie ottega	nombre canción + artista mal escrito (jeannie ortega)
+134s	to like you by bow wow --> like you bow wow	canción + artista
+165s	midnight	Seguramente haya canciones así llamadas, pero en la consulta de refiere a la canción 'Midnite'
+170s	music video for i never snitch remix by scarface --> i never snitch remix scarface	título de canción mal escrito ('never snitch remix, sin "i"') + artista
+179s	im in love wit a stripper	En realidad es 'im in luv wit a stripper'
+181s	music video were you are jessica simpson --> were you are jessica simpson	nombre canción + artista
+199s	to holla at me by paul wall --> holla at me paul wall	nombre de canción + artista
+202s	to if i could be your girl by beanie man --> if i could be your girl beanie man	nombre canción + artista
+208s	im in love with a stripper	Debería ser luv, no love
+210s	to give me a chance by neyo --> give me a chance neyo	canción + artista mal escrito (ne-yo)
+211s	for grills by nelly --> grills nelly	Nombre canción mal escrito (grillz) + artista
+218s	snitch by obie trice --> snitch obie trice	nombre artista + canción 
+219s	in luv with a stripper remix	'im in lub wit a stripper'
+223s	to tell me when to go remix by e-40 and keak da sneak --> tell me when to go remix e-40 keak da sneak	nombre canción + dos artistas
+231s	so what by jazze pha --> so what jazze pha	nombra canción más artista
+233s	to crowded by jeanne ortega --> crowded jeanne ortega	nombre canción + artista mal escrito (jeannie ortega)
+234s	whats happening	Sobra la 'g' en happening
+235s	for paula deanda's doin to much --> paula deanda's doin to much	nombre artista + canción interesantemente mal escrita (doing too much)
+240s	get thowed video --> get thowed	get throwed mal escrito
+243s	forthe song crossroads by david banner --> crossroads david banner	nombre canción + artista
+250s	lyricts to back like dat by ghostface killah --> back like dat ghostface killah	nombre canción + artista
+258s	im in love with a stipper	Debería ser im in luv wit a stripper
+261s	chuckin up the deuce audio --> chuckin up the deuce	Mal escrita, chunk up the deuce sería
+264s	ak'sent to her song ziggy --> ak'sent ziggy	nombre de artista + canción mal escrito (zingy)
+266s	get low by lil john and the eastsideboys --> get low lil john the eastsideboys	nombre canción más 2 artistas, el último mal escrito (eastside boys)
+271s	l.o.v.e. missy underground mix	 En lugar de mix, remix, lo demás es exacto al real
+277s	a song called ''lying from you dirt off your shoulder'' by jay-z --> lying from you dirt off your shoulder	nombre canción (es mezcla de 2) + nombre de uno de los artistas
+282s	ms new booty by bubba sparxxx --> nombre canción + artista	
+289s	to crazy about you by mercedes --> crazy about you mercedes	canción + artista
+290s	to crowded by jeannie ortega --> crowded jeannie ortega	
+293s	new york sh	Se refiere a "New york sheet"
+298s	under pressure by my chemical romance --> under pressure my chemical romance	
+299s	for somg so what by feild mob --> so what field mob	nombre canción + artista
+301s	you can be the one i need	Parece que se refiere a "you can be the one" y el "i need" es parte de la letra
+305s	to field mob song so what --> filed mob so what	nombre artista + canción
+312s	to love me by 112 --> Love me 112	nombre canción + artista
+319s	to mrs new botty by bubba sparxx --> mrs new botty bubba sparxx	Nombre canción mal escrito (ms, no mrs) + nombre artista mal escrito (sparxxx, con un 'x' más)
+327s	for just a touch by 50 cent --> just a touch 50 cent	nombre canción + artista
+331s	from trina of da club --> trina da club	nombre artista + canción mal escrita
+335s	to song touch it remix by busta rhymes --> touch it busta rhymes	canción + artista
+343s	for our life by necro --> our life necro	canción + artista (necro)
+345s	sow you what i'm workin' wit	"show", no "sow"
+358s	for suck it or not remix by camron --> suck it or not remix camron	nombre canción + artista mal escrito (cam'ron)
+363s	bad	Se refiere a la canción badd... pero qué peligro
+370s	to back like that by ghostface killah --> back like that ghostface killah	nombre canción + artista
+374s	for paula deanda's doing to much --> paula deanda's doing to much	nombre artista + canción mal escrita (Debería ser too)
+382s	to me n u by cassie --> me n u cassie	nombre canción mal escrito (me & u) + artista
+387s	to mrs new booty by bubba sparxx --> mrs new booty bubba sparxx	nombre canción + artista mal escrito (sparxxx)
+404s	back like that by ne-yo --> nombre artista 	
+406s	drifting away by lance --> drifting away lance	nombre canción + artista
+412s	to the song run away by bubba sparxxx --> run away bubba sparxxx	nombre canción + artista
+418s	for mamasita by baby bash --> mamasita baby bash	nombre canción + artista
+419s	slow motion by juvenile --> slow motion juvenile	nombre canción + artista
+424s	you by lloyd --> you lloyd	nombre canción + artista
+428s	to shake by ying yang twins --> shake ying yang twins	nombre canción + artista
+430s	holla at my baby	Se refiere a "holla at me"
+438s	to dilema by nelly --> dilema nelly	nombre canción + artista
+443s	chuckin up the deuce	se refeire a chunk up the deuce
+459s	listen to so what by jazze pha --> so what jazze pha	nombre canción + artista colaborador
+465s	hearthbreaker by mariah carey --> heartbreaker mariah carey	nombre canción + artista
+481s	for mamacita by baby beesh --> mamacita baby beesh	nombre canción + artista mal escrito (baby bash)
+485s	heart transplant by punchline --> heart transplant punchline	nomrbe canción + artista (punchline)
+489s	get low lil jon & the eastside boyz --> get low lil jon the eastside boyz	nombre canción + dos artistas (uno mal escrito)
+505s	t.i. song so cold --> t.i. so cold	nombre artista + canción
+508s	my plaything	 se refiere a plaything
+512s	no time by remy ma --> no time remy ma	canción + artista mal escrito (remy martin)
+513s	get low lil john with the eastside boys --> get low lil john the eastside boys	nombre canción + 2 artistas
+520s	for control myself by ll cool j --> control myself ll cool j	nombre canción + artista
+537s	my playthang	Se refiere a plaything
+539s	ashlee simpson l.o.v.e for remix --> ashlee simpson l.o.v.e. remix	artista + canción
+540s	doing too much-	Sería doin'
+544s	for chingy holiday inn --> chingy holiday inn	nombre artista (chingy) + canción
+548s	lyics to ill be your lover by baby bash --> ill be you lover baby bash	nombre de canción casi bien escrito + artista
+567s	to back like dat by ghostface killah --> back like dat ghostface killah	nombre canción + artista
+594s	bossy song and by kelis --> bossy kelis	nombre canción + artista
+600s	so what by ciara --> so what ciara	canción + artista
+605s	so what by feild mob --> so what feild mob	nombre canción + artista
+615s	im in love ith a stripper	debería ser im in luv wit a stripper

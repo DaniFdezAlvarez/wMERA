@@ -1,0 +1,716 @@
+@prefix ns1: <http://example.org/nuestras_propiedades/> .
+@prefix ns2: <http://xmlns.com/foaf/0.1/> .
+@prefix ns3: <http://purl.org/dc/elements/1.1/> .
+@prefix ns4: <http://purl.org/ontology/mo/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://example.org/nuestras_entidades/a_sea_apart> a ns4:Track ;
+    ns1:discogs_id "[r2]A1" ;
+    ns4:origin <http://example.org/nuestras_entidades/a_sea_apart/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/alexi_delano>,
+        <http://example.org/nuestras_entidades/cari_lekebusch>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d> ;
+    ns2:name <http://example.org/nuestras_entidades/a_sea_apart/canonical> .
+
+<http://example.org/nuestras_entidades/dutchmaster> a ns4:Track ;
+    ns1:discogs_id "[r2]A2" ;
+    ns4:origin <http://example.org/nuestras_entidades/dutchmaster/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/alexi_delano>,
+        <http://example.org/nuestras_entidades/cari_lekebusch>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d> ;
+    ns2:name <http://example.org/nuestras_entidades/dutchmaster/canonical> .
+
+<http://example.org/nuestras_entidades/gamla_stan> a ns4:Track ;
+    ns1:discogs_id "[r1]D" ;
+    ns4:origin <http://example.org/nuestras_entidades/gamla_stan/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/gamla_stan/canonical> .
+
+<http://example.org/nuestras_entidades/inner_city_lullaby> a ns4:Track ;
+    ns1:discogs_id "[r2]B1" ;
+    ns4:origin <http://example.org/nuestras_entidades/inner_city_lullaby/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/alexi_delano>,
+        <http://example.org/nuestras_entidades/cari_lekebusch>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d> ;
+    ns2:name <http://example.org/nuestras_entidades/inner_city_lullaby/canonical> .
+
+<http://example.org/nuestras_entidades/josh_wink> a ns4:MusicArtist ;
+    ns1:alias <http://example.org/nuestras_entidades/josh_wink/alias1>,
+        <http://example.org/nuestras_entidades/josh_wink/alias2>,
+        <http://example.org/nuestras_entidades/josh_wink/alias3>,
+        <http://example.org/nuestras_entidades/josh_wink/alias4>,
+        <http://example.org/nuestras_entidades/josh_wink/alias5>,
+        <http://example.org/nuestras_entidades/josh_wink/alias6> ;
+    ns1:civil_name <http://example.org/nuestras_entidades/josh_wink/civil> ;
+    ns1:namevar <http://example.org/nuestras_entidades/josh_wink/namevar1>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar10>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar11>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar12>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar13>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar14>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar15>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar16>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar17>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar18>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar19>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar2>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar20>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar21>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar22>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar23>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar3>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar4>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar5>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar6>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar7>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar8>,
+        <http://example.org/nuestras_entidades/josh_wink/namevar9> ;
+    ns2:name <http://example.org/nuestras_entidades/josh_wink/canonical> .
+
+<http://example.org/nuestras_entidades/kungsholmen> a ns4:Track ;
+    ns1:discogs_id "[r1]B2" ;
+    ns4:origin <http://example.org/nuestras_entidades/kungsholmen/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/kungsholmen/canonical> .
+
+<http://example.org/nuestras_entidades/norrmalm> a ns4:Track ;
+    ns1:discogs_id "[r1]C2" ;
+    ns4:origin <http://example.org/nuestras_entidades/norrmalm/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/norrmalm/canonical> .
+
+<http://example.org/nuestras_entidades/ostermalm> a ns4:Track ;
+    ns1:discogs_id "[r1]A" ;
+    ns4:origin <http://example.org/nuestras_entidades/ostermalm/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/ostermalm/canonical> .
+
+<http://example.org/nuestras_entidades/sodermalm> a ns4:Track ;
+    ns1:discogs_id "[r1]C1" ;
+    ns4:origin <http://example.org/nuestras_entidades/sodermalm/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/sodermalm/canonical> .
+
+<http://example.org/nuestras_entidades/sweet_abraham> a ns4:MusicArtist ;
+    ns1:alias <http://example.org/nuestras_entidades/sweet_abraham/alias1> ;
+    ns1:civil_name <http://example.org/nuestras_entidades/sweet_abraham/civil> ;
+    ns2:name <http://example.org/nuestras_entidades/sweet_abraham/canonical> .
+
+<http://example.org/nuestras_entidades/vasastaden> a ns4:Track ;
+    ns1:discogs_id "[r1]B1" ;
+    ns4:origin <http://example.org/nuestras_entidades/vasastaden/country> ;
+    ns2:maker <http://example.org/nuestras_entidades/persuader,_the> ;
+    ns2:name <http://example.org/nuestras_entidades/vasastaden/canonical> .
+
+<http://example.org/nuestras_entidades/a_sea_apart/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a sea apart" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/a_sea_apart/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/alexi_delano/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a d 1010" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/alias2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "adny" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/alias3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "bob brewthbaker" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/alias4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "g o l" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/alias5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "leiva" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/civil> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar10> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi adny delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar11> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi dolano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar12> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi v delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar13> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar14> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "delano, alexi" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar15> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dj alexi" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar16> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dj alexi delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "a delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar7> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "ad" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar8> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alex delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/alexi_delano/namevar9> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexei delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "agent orange" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias10> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mentap" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias11> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr james barth" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias12> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mystic letter k" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias13> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "phunkey rhythm doctor" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias14> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "rotortype" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias15> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "rubberneck" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias16> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "shape changer" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias17> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "sir jeremy augustus hutley of granith hall" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias18> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "szerementa programs" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias19> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "vector" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "braincell" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias20> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "yakari" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cerebus" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "crushed insect" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dj mystiska k" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "fred" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias7> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "kari pekka" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias8> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "magenta" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/alias9> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mantis, the" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/civil> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "kari pekka lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "c lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar10> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "carl lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar11> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar12> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "lekebusch musik" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "c lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "c lekebush" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "c lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "c lekebush" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari le kebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar7> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari leke busch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar8> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari lekebusch den rykande bonsyrsan" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch/namevar9> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "cari lekebush" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/dutchmaster/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dutchmaster" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/dutchmaster/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/gamla_stan/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "gamla stan" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/gamla_stan/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/inner_city_lullaby/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "inner city lullaby" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/inner_city_lullaby/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "accent" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "crusher, the" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dinky dog" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j dawg" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "size 9" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/alias6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "winx" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/civil> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "joshua winkelman" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dj josh wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar10> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar11> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j winkelman" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar12> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar13> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh wink (dj wink)" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar14> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh winkelman" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar15> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh winkelmann" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar16> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh winks" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar17> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "josh winx" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar18> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jw" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar19> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "winc" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dj wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar20> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar21> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "winks" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar22> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "winx" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar23> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "winxs" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dosh wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "hardrive: 2000" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j wink" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar7> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j wink (dj wink)" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar8> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j winkelman" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/josh_wink/namevar9> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "j winkelmann" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/kungsholmen/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "kungsholmen" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/kungsholmen/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "adcl" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "alexi delano & cari lekebusch" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "crushed insect & the sick puppy" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "puente latino" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "yakari & delano" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr james barth & a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr barth & a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr james barth & a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "mr barth & a d" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/norrmalm/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "norrmalm" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/norrmalm/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/ostermalm/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "ostermalm" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/ostermalm/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "dick track" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "faxid" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias3> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "groove machine" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias4> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "janne me' amazonen" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias5> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jesper dahlback" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias6> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "lenk" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/alias7> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "pinguin man, the" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "persuader, the" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/civil> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jesper dahlback" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/namevar1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "persuader" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/persuader,_the/namevar2> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "presuader, the" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/sodermalm/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "sodermalm" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/sodermalm/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/sweet_abraham/alias1> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jeff peacock" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/sweet_abraham/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "sweet abraham" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/sweet_abraham/civil> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "jeffrey peacock" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes> .
+
+<http://example.org/nuestras_entidades/vasastaden/canonical> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    rdfs:label "vasastaden" ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/vasastaden/country> a <http://example.org/nuestros_tipos/Str_labelled> ;
+    ns1:entity_target <http://example.org/nuestras_entidades/sweden> ;
+    ns1:source <http://example.org/nuestras_entidades/selected_discogs_indexes_a> .
+
+<http://example.org/nuestras_entidades/mr_james_barth_&_a_d> a ns4:MusicGroup ;
+    ns1:alias <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias1>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias2>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias3>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias4>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/alias5> ;
+    ns1:namevar <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar1>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar2>,
+        <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/namevar3> ;
+    ns4:member <http://example.org/nuestras_entidades/alexi_delano>,
+        <http://example.org/nuestras_entidades/cari_lekebusch> ;
+    ns2:name <http://example.org/nuestras_entidades/mr_james_barth_&_a_d/canonical> .
+
+<http://example.org/nuestras_entidades/alexi_delano> a ns4:MusicArtist ;
+    ns1:alias <http://example.org/nuestras_entidades/alexi_delano/alias1>,
+        <http://example.org/nuestras_entidades/alexi_delano/alias2>,
+        <http://example.org/nuestras_entidades/alexi_delano/alias3>,
+        <http://example.org/nuestras_entidades/alexi_delano/alias4>,
+        <http://example.org/nuestras_entidades/alexi_delano/alias5> ;
+    ns1:civil_name <http://example.org/nuestras_entidades/alexi_delano/civil> ;
+    ns1:namevar <http://example.org/nuestras_entidades/alexi_delano/namevar1>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar10>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar11>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar12>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar13>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar14>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar15>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar16>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar2>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar3>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar4>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar5>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar6>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar7>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar8>,
+        <http://example.org/nuestras_entidades/alexi_delano/namevar9> ;
+    ns2:name <http://example.org/nuestras_entidades/alexi_delano/canonical> .
+
+<http://example.org/nuestras_entidades/cari_lekebusch> a ns4:MusicArtist ;
+    ns1:alias <http://example.org/nuestras_entidades/cari_lekebusch/alias1>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias10>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias11>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias12>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias13>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias14>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias15>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias16>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias17>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias18>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias19>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias2>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias20>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias3>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias4>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias5>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias6>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias7>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias8>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/alias9> ;
+    ns1:civil_name <http://example.org/nuestras_entidades/cari_lekebusch/civil> ;
+    ns1:namevar <http://example.org/nuestras_entidades/cari_lekebusch/namevar1>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar10>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar11>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar12>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar2>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar3>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar4>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar5>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar6>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar7>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar8>,
+        <http://example.org/nuestras_entidades/cari_lekebusch/namevar9> ;
+    ns2:name <http://example.org/nuestras_entidades/cari_lekebusch/canonical> .
+
+<http://example.org/nuestras_entidades/persuader,_the> a ns4:MusicArtist ;
+    ns1:alias <http://example.org/nuestras_entidades/persuader,_the/alias1>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias2>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias3>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias4>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias5>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias6>,
+        <http://example.org/nuestras_entidades/persuader,_the/alias7> ;
+    ns1:civil_name <http://example.org/nuestras_entidades/persuader,_the/civil> ;
+    ns1:namevar <http://example.org/nuestras_entidades/persuader,_the/namevar1>,
+        <http://example.org/nuestras_entidades/persuader,_the/namevar2> ;
+    ns2:name <http://example.org/nuestras_entidades/persuader,_the/canonical> .
+
+<http://example.org/nuestras_entidades/selected_discogs_indexes_a> a <http://example.org/nuestros_tipos/source> ;
+    ns3:title "selected_discogs_indexes" .
+
+<http://example.org/nuestras_entidades/selected_discogs_indexes> a <http://example.org/nuestros_tipos/source> ;
+    ns3:title "selected_discogs_indexes" .
+
