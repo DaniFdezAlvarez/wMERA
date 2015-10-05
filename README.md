@@ -26,5 +26,7 @@ The code is organized as follows:
   *	Module factory: code to build some specific complex objects.
   *	Module utils. Different utility methods.
   *	Module word_utild: different utility methods focused in strings.
+* Package apps: scripts that use somehow wmera code: research experiments, graph generation, comparison of tehcniques…
+* Package test: testing code for wmera. Most of these test are integration test, and they expect to be executed in a machine running an instance of MongoDB accessible at localhost:27017.
 
 
