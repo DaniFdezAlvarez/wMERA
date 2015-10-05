@@ -11,3 +11,20 @@ This code is not thougth to be final. Efficiency, arquitechture and code structu
 
 * Collaborators: [Dani Fernández](https://github.com/DaniFdezAlvarez), [Dani Gayo](https://github.com/danigayo), [José Labra](https://github.com/labra).
 
+
+The code is organized as follows:
+
+* Package wmera: Main package. It contains the code of the entity reconciliatory and the modules involved in that process.
+** Sub-package adapters: conversion between different implementations of q-gram indexes.
+**	Sub-package controller: code to coordinate query execution with result retrieving.
+**	Sub-package graph_gen: code to generate RDF graphs through consuming an interface of a parser that yields model objects. It also contains an implementation of MERA’s graph interface using RDFLib library.
+**	Sub-package infrastructure: interface and implementations of the different q-gram indexes.
+**	Sub-package parsers: interface of parsers that generate model objects as well as implementations to generate objects of different datasources.
+**	Sub-package query_gen: code to generate serialized MERA queries in a JSON model and after parsing another JSON model.
+**	Sub-package mera_core: model objects, system interfaces, matching module and string comparison packages.
+**	Module facade:  code to consume MERA from external apps.
+**	Module factory: code to build some specific complex objects.
+**	Module utils. Different utility methods.
+**	Module word_utild: different utility methods focused in strings.
+
+
