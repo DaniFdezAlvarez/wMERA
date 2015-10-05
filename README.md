@@ -1,15 +1,23 @@
-PROTOTYPE
-=========
-
-This code is not thougth to be final. Efficiency, arquitechture and code structure should be improved.
-
-## Researching about musical entities conciliation
-
-* Target: prototype able to recognize dirty/heterogeneus (civil names, artistic names, alias) strings as entities (groups, songs, artists, releases,...).
-
-* Content: The different packages contain executable scripts in python doing the task related with the package's name but most of them are based in private files non included in this repo. Those scripts are called main.py or main_*.py
+wMERA
+=====
 
 * Collaborators: [Dani Fernández](https://github.com/DaniFdezAlvarez), [Dani Gayo](https://github.com/danigayo), [José Labra](https://github.com/labra).
+
+
+MERA (Musical Entities Reconciliation Architecture) consist of an architecture highly configurable designed to link music-related datasuources using string comparison techniques and semantic technologies. wMERA is a prototype that implements most of MERA's features, including:
+•	Graph navigation exploring alternative forms for each entity.
+•	Graph navigation exploring related entities.
+•	Configuration of relevancies when applying refinements to a query.
+•	Configuration of minimum acceptable values for each type when scoring a result.
+•	Blocking function: adaptation of q-gram indexing and TF-IDF.
+•	Usage of MERA rdf graph schema
+•	Set of comparison algorithms of general-purpose.
+•	Set of text standardization functions.
+
+
+wMERA has been developed in python 2.7 and requires the next packages:
+ * rdflib
+ * pymongo
 
 
 The code is organized as follows:
@@ -30,3 +38,4 @@ The code is organized as follows:
 * Package test: testing code for wmera. Most of these test are integration test, and they expect to be executed in a machine running an instance of MongoDB accessible at localhost:27017.
 
 
+Documentation of MERA and wMERA are still in progress. Contact with [Dani Fernández](https://github.com/DaniFdezAlvarez) for any question.
