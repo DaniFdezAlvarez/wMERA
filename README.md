@@ -1,18 +1,16 @@
 wMERA
 =====
-
 * Collaborators: [Dani Fernández](https://github.com/DaniFdezAlvarez), [Dani Gayo](https://github.com/danigayo), [José Labra](https://github.com/labra).
 
-
 MERA (Musical Entities Reconciliation Architecture) consist of an architecture highly configurable designed to link music-related datasuources using string comparison techniques and semantic technologies. wMERA is a prototype that implements most of MERA's features, including:
-•	Graph navigation exploring alternative forms for each entity.
-•	Graph navigation exploring related entities.
-•	Configuration of relevancies when applying refinements to a query.
-•	Configuration of minimum acceptable values for each type when scoring a result.
-•	Blocking function: adaptation of q-gram indexing and TF-IDF.
-•	Usage of MERA rdf graph schema
-•	Set of comparison algorithms of general-purpose.
-•	Set of text standardization functions.
+* Graph navigation exploring alternative forms for each entity.
+*	Graph navigation exploring related entities.
+*	Configuration of relevancies when applying refinements to a query.
+*	Configuration of minimum acceptable values for each type when scoring a result.
+*	Blocking function: adaptation of q-gram indexing and TF-IDF.
+*	Usage of MERA rdf graph schema
+*	Set of comparison algorithms of general-purpose.
+*	Set of text standardization functions.
 
 
 wMERA has been developed in python 2.7 and requires the next packages:
