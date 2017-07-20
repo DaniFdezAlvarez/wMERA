@@ -1,0 +1,104 @@
+# Leyenda: - = no aplica
+# X = no encontrado
+# L = encontrado, pero en ranking bajísimo
+#Id	pos_sin_artista	pos_un_artista	pos_varios_artistas	pos_un_escritor	pos_varios_escritores	pos_combinado_simple	pos_combinado_todo	comentario?
+166376  	5	1	-	1	1	1	1
+11468498	1	1	-	-	-	-	-
+27354677	1	1	X	1	X	1	X
+26663238	4	1	X	1	1	1	X	
+3452653    	1	1	-	1	1	1	1
+21790270	1	-	-	1	X	1	X
+38763481	1	1	-	1	X	1	X
+9689000 	L	1	X	1	1	1	X
+12695014	1	-	-	1	1	-	-		
+13774423	1	1	-	-	-	-	-
+5859010 	2	-	-	1	1	-	-
+27709827	1	-	-	1	-	-	-
+23385633	1	-	-	1	-	-	-
+24857423	1	-	-	1	1	-	-
+34661041	1	X	X	1	-	X	X
+24123570	1	1	-	-	-	-	-
+21518422	L	-	-	1	1	-	-
+20118776	2	-	-	X	-	-	-	Ojo! Est Gene Mcdaniells no es una forma alternativa de escribir el escritor, que efectivamente está en discogs y se llama eugene mcdaniels. Aquí! Aquí metes Levenstein y la magia puede ocurrir. Y además, es el caso de, más datos, y peto.
+36510642	5	-	-	1	1	-	-
+29077717	4	1	X	X	-	1	X
+13934081	1	-	-	1	-	1	1
+31327891	2	-	-	1	-	-	-
+21370578	X	-	-	X	-	-	-	BOOM! Música clásica, igualico que MERA
+25530192	L	-	-	1	1	-	-
+39288960	L	-	-	1	1	-	-
+24429831	1	-	-	X	-	-	-	Problema que les sale: Vaugham está como artista, no como escritor. Falla por los criterios que usan de descarte. MERA aquí no falla!
+17738893	L	1	-	L	X	1	X	Interesante. COn varios escritores, falla. Moraleja, el esceso de datos lo hace fallar, incluso en escritores con algoritmos más tolerantes que en artista.
+27205571	1	-	-	1	1	-	-	
+12648963	3	1	X	L	-	1	X	Curioso. De ningún dato respecto a escritor, baja el rank. Supongno que está bajando porque en escritor hace match con alguna forma de nombre prioritaria a como se está poniendo en el disco de Mr. President. Este es un caso con una canción escrita por un compositor en el que buacamos una versión de un artista y no la canción más habitual.
+32003081	5	1	1	1	1	1	1	
+12374587	1	1	X	2	1	1	X	Al poner un solo escritor baja el rank, supongo que por temas de hacer match con formas prioritarias. Vuelve a ponerse en la pista cuando le metes los dos escritores que tiene
+14907926	1	X	X	1	X	X	X	Caso interesante: falla porque James Horner sale de artista en lugar de compositor, y las que lo cantan no salen nunca de artistas.
+29726788	L	1	-	1	-	1	-
+25606337	1	1	-	-	-	-	-
+14850203	1	1	1	1	1	1	1
+1660011 	1	1	-	1	X	1	X	Moraleja: falla al meter como escritores a los propios artistas porque no está guardado así en la fuente
+14737825	1	-	-	1	1	-	-	
+35155007	1	1	-	-	-	-	-
+387705  	1	1	-	1	1	1	1
+22027365	1	1	X	1	-	1	X
+24996695	1	1	-	1	1	1	1
+39421691	L	X	X	L	-	X	X	Problemas:en artistas, la orquesta de londres aparce, pero como una forma de colaboración, así que no la encuentra. Respecto al título, el hecho de que aparezca Main Title hace que se metan un monton de historias. EL hecho de que sea James Horner, que componía para palículas, hace que muchas canciones se llamen parecido. Y la bando sonora de bravehart fue interpretada por más orquestas, con lo que si no te pilla en el campo de artístia la sinfónica de londres, te llea a otra versión.
+7285001 	3	-	-	1	1	-	-
+37556720	1	1	-	1	1	1	1
+28591469	1	-	-	1	1	-	-
+4980376 	3	1	X	1	-	1	X	Demasiados artistas, rompe con el último
+35498850	1	1	-	1	1	1	1
+14730715	L	1	-	1	-	1	-
+40582762	2	1	X	1	-	1	X
+22902177	1	1	-	-	-	-	-
+7093523 	X	X	-	-	-	-	-	Cambia la forma de llamar la canción (orden)
+3342010 	4	1	-	1	1	1	1		
+9399807 	1	1	X	1	-	1	X	Caso dudose de cómo calificar. Los artistas no la cantaron juntos, creo que musicbrainz se refiere a todos los artistas que cantaron dicha canción, pero no a la vez
+15499266	1	-	-	1	1	-	-
+39337566	L	1	-	1	-	1	-
+18943625	L	1	X	4	-	1	X	Hay un caracter en un artista no reconocido... luego booom bom bom!
+25416870	L	1	X	L	-	X	X	 Estaba acertando de pura chorra. Aquí hay un problema de que sobra la palabra baby en el titulo, suficiente para que no cace la respuesta. No obstante, ocurría que en la mayoria de discos en el que estaba esa canción habia otra que se llamaba baby. Pero coincide que no hay un disco en el que estén el escritor y un artista a la vez que incluya esa canción de baby, sino que son releases en forma de sencillos o similares. Así que al meter todos los datos.... bombombomm!
+34224183	1	1	X	X	-	X	X	No conoce al escritor y booom bom bom!
+34843829	3	-	-	1	1	-	-
+43108427	L	-	-	1	1	-	-
+40031420	L	1	X	L	-	1	X
+16385257	3	-	-	1	1	-	-
+27491574	3	1	X	2	-	1	X
+38832587	1	-	-	1	-	-	-	Que jodio, pesca como un tiro hasta la música clásica
+11181737	3	1	-	-	-	-	-
+6380999 	3	1	X	1	-	X	X	No acierta ni poniendo el artista y el escritor en el mismo sitio, por el tema de como distingue entre los contribuidores y los artistas. Eso y el criterio excluyente tan cafre
+24976839	L	1	-	1	-	1	-	
+14128656	X	X	-	-	-	-	-	No encuentra la canción por un único caracter apóstrofe. El resto del nombre es exactamente igual
+19151316	1	-	-	1	-	-	-
+1167084 	1	1	-	1	1	1	1
+15881010	3	-	-	1	1	-	-
+33854102	1	-	-	1	-	-	-
+35670123	1	-	-	1	1	-	-
+28985787	4	1	-	1	1	1	1
+31900596	1	-	-	1	1	-	-
+16478039	1	-	-	1	1	-	-
+6916936 	1	1	-	-	-	-	-
+8556480 	L	1	-	-	-	-	-
+21106139	L	1	1	-	-	-	-
+15834545	1	1	-	-	-	-	-
+38374264	1	-	-	1	-	-	-
+13083337	4	1	-	-	-	-	-
+29261947	1	X	-	X	-	X	-	Ocurre que todo bien, pero el Baeremboin este no aparece nunca y lo debi de dar por bueno y encontrado igual. Mozart sí aparece, pero siempre como artista en lugar de compositor
+13129130	L	1	-	-	-	-	-
+34136753	X	X	X	X	-	X	X	EL nombre que tiene esta canción en discogs está repartido entre el puro nombre de la release y una de las canciones dentro de la release. por ello, MERA caza, discogs no caza..... boom! (creo)
+31436364	L	1	-	X	X	X	X	En la canción de Peter Alexander no salen los autores reconocidos... con lo que booom ba blash! Peta. Da resultados de esa canción, porque los escritores son esos, pero cantados por otras personas
+6832795 	L	1	-	-	-	-	-
+41097869	1	1	X	-	-	-	-
+6674971 	1	1	-	-	-	-	-
+30408893	L	1	1	-	-	-	-
+17128191	1	1	-	1	-	1	-
+39564906	L	1	X	-	-	-	-	Encuentra una combinación de featuring con dos de los artistas.
+31466014	L	1	-	-	-	-	-
+5506501 	L	1	-	-	-	-	-
+7997426 	2	1	-	-	-	-	-
+30137913	X	X	-	-	-	-	-	Lo del (Album version) lo destroza. Buenísimo caso!
+8778365 	L	1	-	-	-	-	-
+28765200	L	1	-	-	-	-	-
+7477862 	2	1	-	-	-	-	-
+7297869 	2	1	-	-	-	-	-

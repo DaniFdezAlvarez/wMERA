@@ -1,0 +1,9 @@
+_POS_FIRST = 1
+_POS_MIDDLE_MAX = 3
+
+_CHAR_MISSED = "X"
+_CHAR_LOW = "L"
+_CHAR_NA = "-"
+
+_CHAR_SEPARATOR = "\t"
+_CHAR_IGNORE_LINE = "#"
